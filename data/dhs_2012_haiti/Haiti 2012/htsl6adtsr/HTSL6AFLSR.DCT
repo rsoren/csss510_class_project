@@ -1,0 +1,26 @@
+infix dictionary using "C:\NEWSPA_AUG30\HT6A\EXPORT\EXPORTEDFILES\HTSL6AFLSR.DAT" {
+1 lines
+    long     inv_id      1:   1-5   
+    byte     vu11        1:   6-7   
+    byte     vu13        1:   8-9   
+    byte     vu13a       1:  10-10  
+    byte     vu14        1:  11-11  
+    byte     vu15        1:  12-12  
+    byte     vu16        1:  13-13  
+    byte     vu17        1:  14-14  
+    byte     vu17a       1:  15-15  
+    byte     vu17b       1:  16-16  
+    byte     vu17c       1:  17-17  
+    byte     vu17d       1:  18-18  
+    byte     vu18        1:  19-19  
+    byte     vu19        1:  20-20  
+    byte     vu20        1:  21-21  
+    byte     vu21        1:  22-22  
+    byte     vu21a       1:  23-23  
+    byte     vu22        1:  24-24  
+    byte     vu23        1:  25-25  
+    byte     vu24        1:  26-26  
+    byte     vu25        1:  27-27  
+    byte     vu26        1:  28-28  
+    byte     vu27        1:  29-29  
+}

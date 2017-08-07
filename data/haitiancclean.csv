@@ -1,0 +1,902 @@
+facil,depart,vilcom,locality,factype,mga,ancscore
+10001,Ouest,11,Aire Metropolitaine,Hôpital universitaire,Government/public,7
+10003,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,6
+10004,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,5
+10005,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+10006,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+10007,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+10008,Ouest,11,Aire Metropolitaine,Dispensaire,Private for profit,6
+10009,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,4
+10010,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,1
+10012,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+10014,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,6
+10017,Ouest,11,Aire Metropolitaine,Hôpital communautaire de reference,Government/public,2
+10019,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+10020,Ouest,11,Aire Metropolitaine,Centre de santé avec lit,Private for profit,5
+10021,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+10022,Ouest,11,Aire Metropolitaine,Hôpital,Government/public,2
+10023,Ouest,11,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,6
+10028,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+10029,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+10030,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+10031,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+10032,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,2
+10033,Ouest,11,Aire Metropolitaine,Centre de santé avec lit,Private for profit,4
+10034,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,5
+10035,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,3
+10036,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,4
+10037,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+10039,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,6
+10042,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,4
+10043,Ouest,11,Aire Metropolitaine,Centre de santé avec lit,NGO/ Private not for profit,3
+10044,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,4
+10046,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+10047,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,7
+10048,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,3
+10051,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+10052,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,2
+10053,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,6
+10056,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,3
+10057,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,7
+10060,Ouest,11,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,4
+10061,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,4
+10062,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,3
+10064,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,4
+10065,Ouest,12,Aire Metropolitaine,Hôpital,Private for profit,4
+10066,Ouest,12,Aire Metropolitaine,Hôpital universitaire,Government/public,6
+10067,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+10068,Ouest,12,Aire Metropolitaine,Hôpital,Mission/ faith-based,6
+10069,Ouest,12,Aire Metropolitaine,Hôpital,Private for profit,6
+10071,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,6
+10072,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,5
+10074,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+10075,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,NGO/ Private not for profit,7
+10076,Ouest,12,Aire Metropolitaine,Hôpital universitaire,Government/public,5
+10077,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+10078,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+10082,Ouest,12,Aire Metropolitaine,Hôpital,Government/public,7
+10083,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Government/public,3
+10084,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Government/public,2
+10086,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+10087,Ouest,12,Aire Metropolitaine,Hôpital,Private for profit,7
+10088,Ouest,12,Aire Metropolitaine,Hôpital,Government/public,4
+10089,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+10090,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,NGO/ Private not for profit,3
+10091,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,NGO/ Private not for profit,4
+10093,Ouest,12,Aire Metropolitaine,Hôpital,Government/public,7
+10097,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,7
+10098,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,2
+10099,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,5
+10101,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,5
+10102,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,5
+10103,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,3
+10105,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+10106,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+10107,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,4
+10109,Ouest,13,Aire Metropolitaine,Centre de santé avec lit,Private for profit,4
+10110,Ouest,13,Aire Metropolitaine,Hôpital communautaire de reference,Government/public,6
+10111,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,7
+10112,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+10113,Ouest,13,Aire Metropolitaine,Hôpital universitaire,Private for profit,5
+10115,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,3
+10116,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,6
+10117,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Government/public,3
+10118,Ouest,13,Localité,Dispensaire,Government/public,2
+10119,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,3
+10120,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,4
+10121,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,2
+10123,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,4
+10124,Ouest,13,Aire Metropolitaine,Centre de santé avec lit,Private for profit,4
+10125,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,6
+10126,Ouest,13,Aire Metropolitaine,Centre de santé avec lit,Mission/ faith-based,2
+10127,Ouest,13,Aire Metropolitaine,Dispensaire,NGO/ Private not for profit,5
+10128,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,6
+10129,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,0
+10130,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,4
+10131,Ouest,13,Aire Metropolitaine,Centre de santé avec lit,Private for profit,8
+10132,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,5
+10133,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+10135,Ouest,14,Localité,Centre de santé sans lit,Mission/ faith-based,2
+10136,Ouest,14,Aire Metropolitaine,Hôpital,Private for profit,5
+10137,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+10138,Ouest,14,Aire Metropolitaine,Hôpital communautaire de reference,Private for profit,6
+10139,Ouest,14,Aire Metropolitaine,Hôpital communautaire de reference,Government/public,6
+10141,Ouest,14,Aire Metropolitaine,Hôpital,Private for profit,4
+10148,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,2
+10149,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Government/public,3
+10150,Ouest,12,Aire Metropolitaine,Dispensaire,Mission/ faith-based,6
+10151,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+10153,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,1
+10156,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,4
+10157,Ouest,14,Aire Metropolitaine,Dispensaire,Private for profit,4
+10160,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,5
+10161,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+10162,Ouest,14,Aire Metropolitaine,Hôpital,Private for profit,6
+10164,Ouest,15,Localité,Centre de santé sans lit,Government/public,5
+10165,Ouest,15,Localité,Dispensaire,Private for profit,4
+10166,Ouest,15,Localité,Hôpital,Mission/ faith-based,7
+10167,Ouest,14,Localité,Dispensaire,Private for profit,3
+10168,Ouest,15,Localité,Dispensaire,Mission/ faith-based,4
+10170,Ouest,15,Localité,Dispensaire,NGO/ Private not for profit,2
+10171,Ouest,14,Localité,Dispensaire,Government/public,2
+10172,Ouest,15,Localité,Dispensaire,Government/public,1
+10174,Ouest,14,Localité,Dispensaire,Private for profit,2
+10175,Ouest,16,Localité,Dispensaire,Private for profit,1
+10177,Ouest,16,Localité,Centre de santé avec lit,Private for profit,3
+10180,Ouest,16,Localité,Centre de santé avec lit,Government/public,7
+10181,Ouest,13,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+10183,Ouest,16,Localité,Centre de santé sans lit,Private for profit,3
+10187,Ouest,16,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+10189,Ouest,21,Localité,Dispensaire,Mission/ faith-based,3
+10190,Ouest,21,Localité,Centre de santé avec lit,NGO/ Private not for profit,5
+10191,Ouest,21,Localité,Centre de santé sans lit,Private for profit,5
+10192,Ouest,21,Localité,Hôpital communautaire de reference,Private for profit,5
+10193,Ouest,21,Autres villes,Centre de santé sans lit,Government/public,3
+10194,Ouest,21,Localité,Hôpital,Government/public,2
+10195,Ouest,21,Localité,Hôpital universitaire,Government/public,1
+10196,Ouest,21,Autres villes,Hôpital communautaire de reference,Government/public,6
+10197,Ouest,21,Localité,Centre de santé sans lit,NGO/ Private not for profit,3
+10198,Ouest,21,Localité,Dispensaire,Private for profit,4
+10199,Ouest,21,Localité,Centre de santé avec lit,Government/public,5
+10200,Ouest,21,Localité,Centre de santé sans lit,Private for profit,3
+10201,Ouest,21,Localité,Centre de santé sans lit,Mission/ faith-based,5
+10203,Ouest,21,Localité,Hôpital,Private for profit,5
+10205,Ouest,21,Localité,Centre de santé sans lit,Private for profit,5
+10207,Ouest,21,Localité,Centre de santé sans lit,Mission/ faith-based,1
+10208,Ouest,21,Localité,Centre de santé avec lit,Private for profit,5
+10209,Ouest,21,Localité,Centre de santé sans lit,Mission/ faith-based,1
+10210,Ouest,22,Autres villes,Hôpital communautaire de reference,Government/public,4
+10211,Ouest,22,Localité,Centre de santé sans lit,Government/public,3
+10212,Ouest,22,Localité,Dispensaire,Government/public,3
+10213,Ouest,22,Localité,Centre de santé sans lit,Government/public,5
+10214,Ouest,22,Localité,Centre de santé sans lit,Private for profit,6
+10215,Ouest,22,Localité,Centre de santé sans lit,Mission/ faith-based,3
+10216,Ouest,22,Localité,Centre de santé sans lit,Private for profit,7
+10217,Ouest,22,Localité,Centre de santé avec lit,Private for profit,3
+10218,Ouest,22,Localité,Dispensaire,NGO/ Private not for profit,1
+10220,Ouest,22,Localité,Centre de santé sans lit,Private for profit,3
+10221,Ouest,23,Autres villes,Hôpital communautaire de reference,Government/public,4
+10222,Ouest,23,Localité,Centre de santé avec lit,Government/public,4
+10223,Ouest,23,Localité,Dispensaire,Government/public,2
+10224,Ouest,23,Localité,Dispensaire,Government/public,3
+10225,Ouest,23,Localité,Dispensaire,Government/public,3
+10226,Ouest,31,Localité,Dispensaire,Government/public,5
+10227,Ouest,31,Localité,Hôpital,Government/public,1
+10228,Ouest,31,Autres villes,Centre de santé avec lit,Government/public,5
+10229,Ouest,31,Localité,Hôpital,NGO/ Private not for profit,5
+10230,Ouest,31,Localité,Centre de santé sans lit,Private for profit,2
+10231,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+10232,Ouest,31,Localité,Centre de santé avec lit,Mission/ faith-based,4
+10233,Ouest,31,Localité,Centre de santé sans lit,Government/public,2
+10234,Ouest,31,Localité,Hôpital,Private for profit,7
+10235,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+10236,Ouest,31,Localité,Centre de santé avec lit,Private for profit,1
+10240,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,7
+10242,Ouest,31,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,1
+10243,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+10244,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,3
+10245,Ouest,31,Localité,Dispensaire,NGO/ Private not for profit,4
+10246,Ouest,33,Localité,Centre de santé sans lit,NGO/ Private not for profit,4
+10247,Ouest,31,Localité,Centre de santé avec lit,Private for profit,5
+10248,Ouest,31,Localité,Centre de santé sans lit,Mission/ faith-based,6
+10250,Ouest,31,Localité,Hôpital,Private for profit,6
+10251,Ouest,31,Autres villes,Centre de santé sans lit,Mission/ faith-based,4
+10252,Ouest,31,Autres villes,Centre de santé avec lit,Private for profit,3
+10253,Ouest,31,Localité,Hôpital,Private for profit,6
+10254,Ouest,31,Localité,Centre de santé avec lit,Private for profit,5
+10255,Ouest,31,Localité,Centre de santé sans lit,Mission/ faith-based,2
+10256,Ouest,31,Localité,Hôpital,Government/public,7
+10258,Ouest,32,Autres villes,Centre de santé avec lit,Government/public,4
+10259,Ouest,32,Localité,Centre de santé sans lit,NGO/ Private not for profit,4
+10261,Ouest,33,Autres villes,Centre de santé sans lit,Government/public,3
+10262,Ouest,33,Localité,Dispensaire,NGO/ Private not for profit,3
+10264,Ouest,33,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,5
+10265,Ouest,33,Localité,Centre de santé sans lit,Private for profit,5
+10266,Ouest,33,Localité,Centre de santé sans lit,Government/public,2
+10267,Ouest,33,Localité,Centre de santé sans lit,NGO/ Private not for profit,1
+10269,Ouest,33,Localité,Dispensaire,Private for profit,1
+10272,Ouest,33,Localité,Hôpital,Private for profit,7
+10273,Ouest,34,Autres villes,Centre de santé sans lit,Government/public,4
+10274,Ouest,34,Localité,Dispensaire,Government/public,2
+10275,Ouest,34,Localité,Centre de santé avec lit,NGO/ Private not for profit,7
+10276,Ouest,35,Autres villes,Centre de santé avec lit,Government/public,5
+10278,Ouest,35,Localité,Dispensaire,Private for profit,3
+10279,Ouest,35,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+10280,Ouest,41,Autres villes,Hôpital communautaire de reference,Government/public,5
+10282,Ouest,41,Localité,Centre de santé sans lit,Mission/ faith-based,3
+10283,Ouest,41,Localité,Centre de santé avec lit,NGO/ Private not for profit,5
+10284,Ouest,41,Localité,Dispensaire,Government/public,3
+10287,Ouest,41,Localité,Dispensaire,Private for profit,1
+10288,Ouest,41,Localité,Hôpital,Private for profit,6
+10289,Ouest,41,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+10290,Ouest,41,Localité,Dispensaire,NGO/ Private not for profit,3
+10291,Ouest,41,Localité,Centre de santé sans lit,NGO/ Private not for profit,3
+10292,Ouest,41,Localité,Dispensaire,Private for profit,5
+10293,Ouest,42,Localité,Centre de santé sans lit,Private for profit,5
+10294,Ouest,42,Autres villes,Centre de santé sans lit,Government/public,3
+10295,Ouest,42,Localité,Centre de santé sans lit,NGO/ Private not for profit,2
+10296,Ouest,42,Localité,Centre de santé sans lit,Private for profit,6
+10298,Ouest,42,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10300,Ouest,42,Localité,Centre de santé sans lit,Mission/ faith-based,5
+10301,Ouest,42,Localité,Centre de santé avec lit,NGO/ Private not for profit,3
+10302,Ouest,42,Localité,Centre de santé sans lit,Private for profit,6
+10303,Ouest,51,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10304,Ouest,51,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,3
+10305,Ouest,51,Localité,Dispensaire,Private for profit,4
+10306,Ouest,51,Localité,Centre de santé sans lit,Mission/ faith-based,4
+10307,Ouest,51,Autres villes,Centre de santé sans lit,Mission/ faith-based,5
+10308,Ouest,51,Localité,Dispensaire,Mission/ faith-based,7
+10309,Ouest,51,Localité,Centre de santé sans lit,Government/public,3
+10311,Ouest,52,Localité,Dispensaire,NGO/ Private not for profit,5
+10313,Ouest,52,Localité,Centre de santé avec lit,NGO/ Private not for profit,5
+10314,Ouest,52,Autres villes,Centre de santé avec lit,Mission/ faith-based,3
+10316,Ouest,51,Localité,Dispensaire,Government/public,2
+10317,Nord,11,Autres villes,Hôpital universitaire,Government/public,6
+10318,Nord,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,4
+10319,Nord,11,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,4
+10320,Nord,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,3
+10321,Nord,11,Localité,Centre de santé sans lit,Government/public,5
+10322,Nord,11,Autres villes,Dispensaire,Private for profit,5
+10323,Nord,11,Localité,Dispensaire,Private for profit,3
+10324,Nord,11,Autres villes,Dispensaire,Private for profit,6
+10325,Nord,11,Localité,Centre de santé sans lit,Mission/ faith-based,1
+10326,Nord,11,Autres villes,Centre de santé avec lit,Private for profit,5
+10327,Nord,11,Autres villes,Centre de santé sans lit,Private for profit,1
+10328,Nord,11,Autres villes,Centre de santé sans lit,Government/public,3
+10329,Nord,11,Localité,Dispensaire,Mission/ faith-based,3
+10330,Nord,12,Autres villes,Centre de santé avec lit,Government/public,7
+10331,Nord,12,Localité,Dispensaire,Government/public,4
+10333,Nord,12,Autres villes,Dispensaire,Mission/ faith-based,6
+10335,Nord,12,Localité,Dispensaire,Government/public,3
+10336,Nord,12,Autres villes,Hôpital communautaire de reference,NGO/ Private not for profit,6
+10337,Nord,13,Autres villes,Centre de santé sans lit,Government/public,4
+10338,Nord,13,Autres villes,Dispensaire,Mission/ faith-based,6
+10340,Nord,13,Localité,Centre de santé sans lit,Mission/ faith-based,4
+10341,Nord,13,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,4
+10342,Nord,21,Autres villes,Centre de santé sans lit,Mission/ faith-based,7
+10343,Nord,21,Localité,Centre de santé sans lit,Government/public,6
+10345,Nord,21,Localité,Dispensaire,Mission/ faith-based,7
+10346,Nord,21,Localité,Dispensaire,Government/public,5
+10349,Nord,21,Localité,Centre de santé sans lit,Mission/ faith-based,2
+10350,Nord,21,Localité,Centre de santé sans lit,Government/public,2
+10352,Nord,22,Localité,Dispensaire,Mission/ faith-based,4
+10353,Nord,22,Localité,Dispensaire,Government/public,6
+10354,Nord,22,Localité,Dispensaire,Government/public,4
+10355,Nord,22,Localité,Centre de santé sans lit,Mission/ faith-based,4
+10356,Nord,22,Localité,Hôpital communautaire de reference,Mission/ faith-based,7
+10357,Nord,22,Localité,Centre de santé sans lit,NGO/ Private not for profit,4
+10358,Nord,22,Localité,Centre de santé sans lit,Mission/ faith-based,3
+10359,Nord,22,Localité,Centre de santé sans lit,Mission/ faith-based,4
+10360,Nord,23,Localité,Hôpital,Private for profit,7
+10361,Nord,23,Localité,Dispensaire,Government/public,3
+10362,Nord,23,Localité,Dispensaire,Mission/ faith-based,5
+10364,Nord,23,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+10365,Nord,31,Autres villes,Hôpital communautaire de reference,Government/public,5
+10367,Nord,32,Localité,Centre de santé sans lit,Government/public,3
+10368,Nord,32,Localité,Dispensaire,Private for profit,5
+10369,Nord,41,Localité,Centre de santé avec lit,Government/public,8
+10370,Nord,41,Localité,Dispensaire,NGO/ Private not for profit,2
+10371,Nord,42,Localité,Centre de santé avec lit,Government/public,3
+10372,Nord,42,Localité,Dispensaire,Private for profit,2
+10373,Nord,43,Autres villes,Centre de santé avec lit,Government/public,6
+10374,Nord,43,Localité,Centre de santé sans lit,Government/public,4
+10375,Nord,43,Localité,Dispensaire,Government/public,0
+10376,Nord,44,Autres villes,Hôpital communautaire de reference,Government/public,6
+10377,Nord,44,Localité,Dispensaire,NGO/ Private not for profit,3
+10378,Nord,45,Localité,Centre de santé avec lit,Government/public,2
+10381,Nord,51,Localité,Dispensaire,Government/public,2
+10383,Nord,51,Autres villes,Centre de santé avec lit,Mission/ faith-based,7
+10384,Nord,52,Autres villes,Centre de santé sans lit,Private for profit,2
+10385,Nord,52,Localité,Centre de santé sans lit,Government/public,6
+10386,Nord,52,Localité,Centre de santé sans lit,Mission/ faith-based,1
+10387,Nord,52,Autres villes,Centre de santé sans lit,Mission/ faith-based,2
+10388,Nord,52,Localité,Centre de santé avec lit,NGO/ Private not for profit,5
+10390,Nord,61,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,5
+10391,Nord,61,Autres villes,Hôpital,Private for profit,4
+10392,Nord,61,Localité,Centre de santé sans lit,Government/public,4
+10393,Nord,61,Localité,Centre de santé avec lit,Mission/ faith-based,6
+10394,Nord,62,Localité,Dispensaire,Government/public,6
+10395,Nord,62,Localité,Centre de santé sans lit,Private for profit,2
+10396,Nord,71,Autres villes,Hôpital communautaire de reference,Private for profit,4
+10397,Nord,71,Localité,Dispensaire,Private for profit,2
+10398,Nord,71,Localité,Dispensaire,NGO/ Private not for profit,1
+10399,Nord,71,Localité,Dispensaire,Mission/ faith-based,5
+10401,Nord,72,Autres villes,Hôpital départemental,NGO/ Private not for profit,5
+10402,Nord-Est,11,Autres villes,Hôpital départemental,Government/public,6
+10403,Nord-Est,11,Localité,Dispensaire,Government/public,4
+10404,Nord-Est,11,Localité,Dispensaire,Government/public,4
+10405,Nord-Est,12,Localité,Dispensaire,Government/public,6
+10406,Nord-Est,13,Localité,Dispensaire,Government/public,5
+10407,Nord-Est,21,Autres villes,Centre de santé avec lit,Government/public,6
+10408,Nord-Est,21,Localité,Dispensaire,Government/public,5
+10410,Nord-Est,21,Autres villes,Centre de santé avec lit,Private for profit,8
+10411,Nord-Est,21,Localité,Dispensaire,Government/public,4
+10412,Nord-Est,21,Localité,Dispensaire,Government/public,2
+10413,Nord-Est,22,Localité,Centre de santé avec lit,Government/public,4
+10414,Nord-Est,22,Localité,Dispensaire,Government/public,1
+10415,Nord-Est,23,Localité,Centre de santé avec lit,Government/public,5
+10416,Nord-Est,31,Autres villes,Hôpital,Government/public,6
+10417,Nord-Est,31,Localité,Dispensaire,Government/public,5
+10418,Nord-Est,31,Localité,Dispensaire,Mission/ faith-based,5
+10419,Nord-Est,32,Localité,Dispensaire,Government/public,6
+10420,Nord-Est,32,Localité,Dispensaire,Mission/ faith-based,1
+10422,Nord-Est,33,Autres villes,Centre de santé sans lit,Mission/ faith-based,6
+10423,Nord-Est,33,Localité,Centre de santé avec lit,Private for profit,6
+10424,Nord-Est,33,Localité,Dispensaire,Government/public,4
+10425,Nord-Est,33,Localité,Dispensaire,Private for profit,5
+10426,Nord-Est,33,Localité,Centre de santé sans lit,Private for profit,6
+10427,Nord-Est,33,Localité,Centre de santé sans lit,Mission/ faith-based,8
+10428,Nord-Est,34,Localité,Centre de santé sans lit,Mission/ faith-based,7
+10429,Nord-Est,34,Localité,Centre de santé sans lit,Mission/ faith-based,5
+10430,Nord-Est,34,Localité,Centre de santé sans lit,Mission/ faith-based,6
+10431,Nord-Est,41,Localité,Dispensaire,Government/public,5
+10432,Nord-Est,41,Localité,Dispensaire,Government/public,6
+10433,Nord-Est,42,Localité,Centre de santé avec lit,Government/public,3
+10434,Nord-Est,42,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,4
+10435,Nord-Est,43,Localité,Centre de santé avec lit,Government/public,4
+10436,Nord-Est,43,Localité,Centre de santé avec lit,Government/public,6
+10437,Artibonite,11,Autres villes,Hôpital départemental,Government/public,2
+10438,Artibonite,11,Localité,Centre de santé sans lit,Private for profit,3
+10439,Artibonite,11,Localité,Dispensaire,Government/public,3
+10440,Artibonite,11,Localité,Dispensaire,Mission/ faith-based,5
+10441,Artibonite,11,Localité,Centre de santé sans lit,Government/public,3
+10442,Artibonite,11,Localité,Centre de santé avec lit,Mission/ faith-based,4
+10443,Artibonite,11,Localité,Centre de santé sans lit,Private for profit,5
+10444,Artibonite,11,Autres villes,Centre de santé avec lit,Government/public,4
+10445,Artibonite,11,Autres villes,Dispensaire,NGO/ Private not for profit,4
+10446,Artibonite,11,Localité,Dispensaire,Government/public,1
+10448,Artibonite,11,Localité,Dispensaire,Private for profit,3
+10449,Artibonite,11,Localité,Dispensaire,NGO/ Private not for profit,4
+10450,Artibonite,11,Localité,Dispensaire,NGO/ Private not for profit,1
+10451,Artibonite,12,Autres villes,Hôpital communautaire de reference,Government/public,6
+10452,Artibonite,12,Localité,Dispensaire,Government/public,0
+10453,Artibonite,12,Localité,Dispensaire,Government/public,1
+10454,Artibonite,12,Autres villes,Centre de santé avec lit,Private for profit,5
+10455,Artibonite,12,Localité,Dispensaire,Mission/ faith-based,5
+10456,Artibonite,12,Localité,Dispensaire,Government/public,2
+10457,Artibonite,13,Autres villes,Hôpital communautaire de reference,Government/public,4
+10458,Artibonite,13,Localité,Dispensaire,NGO/ Private not for profit,1
+10459,Artibonite,13,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+10460,Artibonite,21,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,7
+10461,Artibonite,21,Localité,Dispensaire,Government/public,5
+10462,Artibonite,21,Localité,Centre de santé avec lit,Government/public,2
+10463,Artibonite,21,Localité,Dispensaire,Private for profit,3
+10464,Artibonite,21,Localité,Centre de santé avec lit,NGO/ Private not for profit,2
+10465,Artibonite,21,Localité,Dispensaire,Government/public,1
+10466,Artibonite,21,Localité,Centre de santé avec lit,Government/public,4
+10467,Artibonite,21,Localité,Dispensaire,Government/public,0
+10468,Artibonite,21,Localité,Dispensaire,Government/public,3
+10470,Artibonite,21,Localité,Dispensaire,Mission/ faith-based,4
+10471,Artibonite,21,Localité,Centre de santé sans lit,Private for profit,3
+10472,Artibonite,21,Localité,Dispensaire,Government/public,3
+10473,Artibonite,21,Localité,Centre de santé sans lit,NGO/ Private not for profit,1
+10474,Artibonite,22,Localité,Centre de santé avec lit,Government/public,5
+10475,Artibonite,22,Localité,Dispensaire,Government/public,3
+10478,Artibonite,23,Localité,Dispensaire,Government/public,4
+10480,Artibonite,23,Localité,Dispensaire,Government/public,5
+10481,Artibonite,23,Localité,Dispensaire,Government/public,2
+10483,Artibonite,23,Localité,Dispensaire,Government/public,3
+10484,Artibonite,31,Autres villes,Hôpital communautaire de reference,Government/public,6
+10485,Artibonite,31,Localité,Dispensaire,Private for profit,2
+10486,Artibonite,31,Localité,Dispensaire,Mission/ faith-based,5
+10488,Artibonite,31,Localité,Dispensaire,Government/public,1
+10489,Artibonite,31,Localité,Dispensaire,Private for profit,5
+10490,Ouest,41,Localité,Centre de santé avec lit,NGO/ Private not for profit,3
+10491,Artibonite,31,Localité,Centre de santé avec lit,Private for profit,7
+10492,Artibonite,31,Localité,Dispensaire,Government/public,5
+10493,Artibonite,31,Localité,Centre de santé avec lit,Mission/ faith-based,3
+10494,Artibonite,31,Localité,Dispensaire,Government/public,2
+10495,Artibonite,31,Localité,Centre de santé avec lit,Government/public,4
+10496,Artibonite,31,Localité,Dispensaire,Government/public,3
+10497,Artibonite,31,Localité,Dispensaire,Mission/ faith-based,3
+10498,Artibonite,31,Autres villes,Dispensaire,Private for profit,4
+10499,Artibonite,31,Localité,Dispensaire,Government/public,2
+10501,Artibonite,32,Localité,Hôpital,NGO/ Private not for profit,8
+10503,Artibonite,32,Localité,Centre de santé sans lit,Private for profit,2
+10504,Artibonite,32,Localité,Centre de santé sans lit,Mission/ faith-based,4
+10505,Artibonite,32,Localité,Dispensaire,NGO/ Private not for profit,4
+10506,Artibonite,32,Autres villes,Hôpital,Government/public,6
+10507,Artibonite,32,Localité,Dispensaire,NGO/ Private not for profit,5
+10508,Artibonite,32,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,5
+10509,Artibonite,32,Localité,Dispensaire,Private for profit,0
+10514,Artibonite,33,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10515,Artibonite,41,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,8
+10517,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,2
+10518,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,1
+10519,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,4
+10520,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,5
+10521,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,3
+10522,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,2
+10523,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,4
+10524,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,6
+10525,Artibonite,41,Localité,Dispensaire,Private for profit,4
+10526,Artibonite,41,Localité,Dispensaire,NGO/ Private not for profit,5
+10527,Artibonite,41,Localité,Dispensaire,Government/public,4
+10528,Artibonite,41,Localité,Dispensaire,Mission/ faith-based,4
+10529,Artibonite,41,Localité,Dispensaire,Private for profit,1
+10530,Artibonite,41,Localité,Centre de santé avec lit,Private for profit,1
+10531,Artibonite,42,Autres villes,Hôpital communautaire de reference,Private for profit,7
+10533,Artibonite,42,Localité,Dispensaire,Government/public,1
+10534,Artibonite,42,Localité,Dispensaire,Mission/ faith-based,4
+10535,Artibonite,42,Localité,Dispensaire,NGO/ Private not for profit,4
+10536,Artibonite,42,Localité,Centre de santé sans lit,NGO/ Private not for profit,2
+10537,Artibonite,42,Localité,Dispensaire,Mission/ faith-based,1
+10539,Artibonite,42,Localité,Dispensaire,Private for profit,3
+10542,Artibonite,43,Localité,Centre de santé avec lit,Government/public,2
+10544,Artibonite,43,Localité,Dispensaire,Government/public,3
+10545,Artibonite,44,Localité,Centre de santé avec lit,Government/public,2
+10546,Artibonite,44,Localité,Dispensaire,Government/public,2
+10547,Artibonite,44,Localité,Dispensaire,Government/public,2
+10548,Artibonite,51,Localité,Centre de santé avec lit,Government/public,6
+10550,Artibonite,51,Localité,Dispensaire,Government/public,3
+10551,Artibonite,51,Localité,Dispensaire,Government/public,4
+10552,Artibonite,51,Localité,Dispensaire,Government/public,4
+10553,Artibonite,51,Localité,Dispensaire,Government/public,1
+10554,Artibonite,51,Localité,Centre de santé sans lit,NGO/ Private not for profit,3
+10558,Artibonite,52,Localité,Centre de santé avec lit,Government/public,6
+10559,Centre,11,Autres villes,Hôpital départemental,Government/public,7
+10560,Centre,11,Localité,Centre de santé sans lit,Government/public,6
+10561,Centre,11,Localité,Dispensaire,Government/public,2
+10563,Centre,11,Localité,Dispensaire,Private for profit,1
+10564,Centre,11,Localité,Dispensaire,Mission/ faith-based,2
+10565,Centre,11,Localité,Centre de santé avec lit,NGO/ Private not for profit,4
+10566,Centre,11,Autres villes,Centre de santé sans lit,Government/public,4
+10567,Centre,11,Localité,Dispensaire,Government/public,3
+10570,Centre,12,Localité,Centre de santé avec lit,Government/public,6
+10571,Centre,12,Localité,Dispensaire,Government/public,4
+10572,Centre,12,Localité,Dispensaire,Government/public,4
+10573,Centre,12,Localité,Centre de santé sans lit,Government/public,5
+10574,Centre,12,Localité,Dispensaire,Government/public,3
+10575,Centre,12,Localité,Dispensaire,Government/public,5
+10578,Centre,13,Localité,Centre de santé avec lit,Mission/ faith-based,8
+10580,Centre,14,Autres villes,Centre de santé avec lit,Government/public,3
+10584,Centre,21,Localité,Dispensaire,Government/public,5
+10585,Centre,21,Autres villes,Hôpital communautaire de reference,Government/public,4
+10586,Centre,21,Autres villes,Centre de santé sans lit,Government/public,0
+10587,Centre,21,Localité,Dispensaire,Government/public,5
+10589,Centre,21,Localité,Dispensaire,Government/public,2
+10590,Centre,22,Localité,Centre de santé sans lit,Government/public,6
+10594,Centre,23,Autres villes,Centre de santé avec lit,Mission/ faith-based,7
+10595,Centre,23,Localité,Centre de santé avec lit,Mission/ faith-based,2
+10596,Centre,31,Localité,Hôpital communautaire de reference,NGO/ Private not for profit,7
+10597,Centre,31,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,6
+10599,Centre,31,Localité,Centre de santé sans lit,Government/public,6
+10600,Centre,32,Autres villes,Hôpital communautaire de reference,Government/public,6
+10601,Centre,32,Localité,Dispensaire,Private for profit,3
+10602,Centre,32,Localité,Dispensaire,Government/public,2
+10603,Centre,32,Localité,Centre de santé avec lit,Government/public,4
+10604,Centre,33,Autres villes,Centre de santé sans lit,Mission/ faith-based,3
+10605,Centre,33,Localité,Dispensaire,Mission/ faith-based,2
+10606,Centre,41,Autres villes,Centre de santé avec lit,Mission/ faith-based,7
+10607,Centre,41,Localité,Dispensaire,NGO/ Private not for profit,4
+10610,Centre,41,Localité,Centre de santé avec lit,Government/public,4
+10611,Centre,42,Localité,Dispensaire,Government/public,1
+10612,Centre,42,Autres villes,Centre de santé avec lit,NGO/ Private not for profit,6
+10613,Sud,11,Autres villes,Hôpital communautaire de reference,Government/public,7
+10614,Sud,11,Autres villes,Hôpital,Mission/ faith-based,3
+10615,Sud,11,Autres villes,Hôpital,Government/public,1
+10616,Sud,11,Autres villes,Hôpital,Private for profit,6
+10617,Sud,11,Autres villes,Hôpital universitaire,Mission/ faith-based,8
+10618,Sud,11,Autres villes,Centre de santé avec lit,Private for profit,6
+10619,Sud,11,Autres villes,Centre de santé sans lit,Government/public,4
+10622,Sud,11,Autres villes,Dispensaire,Mission/ faith-based,5
+10623,Sud,11,Localité,Dispensaire,Government/public,4
+10624,Sud,11,Localité,Dispensaire,Government/public,2
+10625,Sud,11,Localité,Dispensaire,Mission/ faith-based,1
+10626,Sud,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,3
+10628,Sud,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,1
+10629,Sud,11,Autres villes,Dispensaire,Private for profit,2
+10630,Sud,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,3
+10631,Sud,12,Localité,Centre de santé avec lit,Private for profit,5
+10633,Sud,12,Localité,Dispensaire,Mission/ faith-based,4
+10634,Sud,12,Localité,Dispensaire,Private for profit,6
+10635,Sud,12,Localité,Centre de santé sans lit,Government/public,6
+10636,Sud,12,Localité,Dispensaire,Government/public,5
+10637,Sud,12,Localité,Centre de santé sans lit,Government/public,3
+10638,Sud,13,Autres villes,Centre de santé sans lit,Government/public,5
+10640,Sud,14,Autres villes,Hôpital communautaire de reference,Government/public,3
+10641,Sud,14,Localité,Dispensaire,Mission/ faith-based,2
+10642,Sud,14,Localité,Dispensaire,Mission/ faith-based,6
+10643,Sud,14,Localité,Dispensaire,Government/public,1
+10648,Sud,15,Autres villes,Centre de santé sans lit,Mission/ faith-based,3
+10649,Sud,15,Localité,Dispensaire,Government/public,1
+10650,Sud,15,Localité,Dispensaire,Government/public,2
+10651,Sud,16,Autres villes,Centre de santé sans lit,Government/public,7
+10652,Sud,21,Autres villes,Hôpital,NGO/ Private not for profit,3
+10653,Sud,21,Localité,Dispensaire,Government/public,3
+10654,Sud,21,Localité,Dispensaire,Government/public,3
+10655,Sud,21,Autres villes,Hôpital communautaire de reference,Government/public,5
+10656,Sud,22,Autres villes,Centre de santé sans lit,Government/public,6
+10657,Sud,22,Localité,Dispensaire,Government/public,4
+10658,Sud,21,Autres villes,Centre de santé sans lit,Government/public,3
+10659,Sud,21,Localité,Dispensaire,Government/public,7
+10660,Sud,31,Autres villes,Centre de santé sans lit,Mission/ faith-based,2
+10661,Sud,31,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10663,Sud,31,Autres villes,Centre de santé avec lit,NGO/ Private not for profit,5
+10664,Sud,31,Autres villes,Dispensaire,Mission/ faith-based,5
+10665,Sud,31,Localité,Dispensaire,Private for profit,3
+10670,Sud,31,Autres villes,Hôpital,NGO/ Private not for profit,8
+10671,Sud,31,Autres villes,Hôpital communautaire de reference,Government/public,6
+10672,Sud,32,Autres villes,Centre de santé avec lit,Government/public,6
+10673,Sud,32,Autres villes,Dispensaire,Private for profit,5
+10674,Sud,32,Localité,Dispensaire,Mission/ faith-based,3
+10677,Sud,33,Localité,Hôpital,Private for profit,5
+10678,Sud,33,Autres villes,Centre de santé sans lit,Government/public,3
+10679,Sud,33,Autres villes,Centre de santé sans lit,Private for profit,6
+10681,Sud,33,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+10683,Sud,33,Localité,Dispensaire,Private for profit,3
+10684,Sud,33,Localité,Dispensaire,Mission/ faith-based,5
+10686,Sud,41,Autres villes,Centre de santé sans lit,Government/public,3
+10687,Sud,41,Localité,Dispensaire,Government/public,1
+10688,Sud,42,Autres villes,Centre de santé avec lit,Government/public,5
+10690,Sud,43,Autres villes,Dispensaire,Mission/ faith-based,2
+10691,Sud,51,Localité,Dispensaire,NGO/ Private not for profit,5
+10692,Sud,51,Localité,Dispensaire,Mission/ faith-based,2
+10693,Sud,52,Autres villes,Centre de santé avec lit,Government/public,7
+10694,Sud,53,Autres villes,Dispensaire,Mission/ faith-based,8
+10695,Nippes,54,Autres villes,Centre de santé avec lit,Government/public,6
+10696,Grand-Anse,11,Autres villes,Hôpital communautaire de reference,Government/public,8
+10697,Grand-Anse,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,7
+10698,Grand-Anse,11,Localité,Centre de santé sans lit,Mission/ faith-based,3
+10699,Grand-Anse,11,Localité,Dispensaire,Mission/ faith-based,3
+10700,Grand-Anse,11,Localité,Dispensaire,Mission/ faith-based,5
+10701,Grand-Anse,11,Localité,Dispensaire,Government/public,3
+10702,Grand-Anse,11,Autres villes,Dispensaire,Government/public,2
+10703,Grand-Anse,11,Localité,Dispensaire,Government/public,5
+10704,Grand-Anse,11,Localité,Dispensaire,Mission/ faith-based,2
+10705,Grand-Anse,11,Localité,Centre de santé avec lit,Mission/ faith-based,6
+10706,Grand-Anse,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,5
+10708,Grand-Anse,12,Localité,Centre de santé sans lit,Mission/ faith-based,8
+10709,Grand-Anse,12,Autres villes,Centre de santé sans lit,Government/public,5
+10710,Grand-Anse,13,Autres villes,Dispensaire,Government/public,5
+10712,Grand-Anse,14,Autres villes,Centre de santé sans lit,Government/public,6
+10714,Grand-Anse,14,Autres villes,Dispensaire,Private for profit,1
+10715,Grand-Anse,15,Autres villes,Centre de santé sans lit,Government/public,7
+10716,Grand-Anse,15,Localité,Dispensaire,Government/public,3
+10718,Grand-Anse,21,Localité,Dispensaire,Government/public,4
+10720,Grand-Anse,21,Localité,Dispensaire,Private for profit,2
+10721,Grand-Anse,21,Localité,Dispensaire,Mission/ faith-based,4
+10722,Grand-Anse,21,Autres villes,Hôpital départemental,Government/public,3
+10723,Grand-Anse,22,Autres villes,Hôpital communautaire de reference,Mission/ faith-based,7
+10725,Grand-Anse,22,Localité,Dispensaire,Government/public,5
+10727,Grand-Anse,22,Localité,Dispensaire,Government/public,3
+10728,Grand-Anse,23,Autres villes,Centre de santé avec lit,Government/public,3
+10729,Grand-Anse,23,Localité,Dispensaire,Mission/ faith-based,4
+10732,Grand-Anse,33,Localité,Dispensaire,NGO/ Private not for profit,3
+10733,Grand-Anse,33,Localité,Dispensaire,Mission/ faith-based,2
+10735,Grand-Anse,31,Autres villes,Hôpital communautaire de reference,Government/public,5
+10736,Grand-Anse,32,Autres villes,Dispensaire,Mission/ faith-based,2
+10737,Grand-Anse,32,Localité,Centre de santé sans lit,Mission/ faith-based,5
+10738,Grand-Anse,32,Localité,Dispensaire,Mission/ faith-based,3
+10741,Grand-Anse,33,Localité,Centre de santé avec lit,Mission/ faith-based,7
+10743,Grand-Anse,33,Autres villes,Dispensaire,Government/public,3
+10744,Grand-Anse,34,Autres villes,Centre de santé avec lit,Government/public,5
+10745,Nippes,32,Localité,Dispensaire,Government/public,4
+10746,Grand-Anse,34,Localité,Dispensaire,Government/public,0
+10747,Grand-Anse,34,Localité,Dispensaire,Mission/ faith-based,5
+10749,Grand-Anse,34,Localité,Dispensaire,Government/public,2
+10751,Nord-Ouest,11,Autres villes,Hôpital départemental,Government/public,6
+10752,Nord-Ouest,11,Localité,Centre de santé sans lit,Private for profit,3
+10754,Nord-Ouest,11,Localité,Dispensaire,Government/public,4
+10755,Nord-Ouest,11,Localité,Dispensaire,Government/public,4
+10756,Nord-Ouest,11,Localité,Dispensaire,Government/public,4
+10757,Nord-Ouest,11,Localité,Dispensaire,Government/public,2
+10758,Nord-Ouest,13,Localité,Dispensaire,Private for profit,4
+10759,Nord-Ouest,11,Localité,Dispensaire,Government/public,3
+10760,Nord-Ouest,11,Localité,Dispensaire,Private for profit,4
+10761,Nord-Ouest,11,Localité,Dispensaire,Government/public,2
+10762,Nord-Ouest,11,Localité,Dispensaire,Private for profit,2
+10763,Nord-Ouest,11,Autres villes,Dispensaire,Government/public,3
+10764,Nord-Ouest,11,Autres villes,Centre de santé avec lit,Mission/ faith-based,4
+10765,Nord-Ouest,11,Localité,Hôpital,NGO/ Private not for profit,5
+10766,Nord-Ouest,11,Localité,Dispensaire,NGO/ Private not for profit,3
+10767,Nord-Ouest,11,Localité,Centre de santé sans lit,Mission/ faith-based,2
+10768,Nord-Ouest,11,Localité,Dispensaire,Government/public,2
+10770,Nord-Ouest,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,1
+10771,Nord-Ouest,11,Localité,Centre de santé sans lit,NGO/ Private not for profit,1
+10772,Nord-Ouest,12,Localité,Hôpital communautaire de reference,Mission/ faith-based,4
+10773,Nord-Ouest,12,Localité,Dispensaire,Mission/ faith-based,5
+10774,Nord-Ouest,12,Localité,Dispensaire,Government/public,5
+10775,Nord-Ouest,12,Localité,Dispensaire,NGO/ Private not for profit,5
+10776,Nord-Ouest,12,Localité,Dispensaire,Mission/ faith-based,5
+10777,Nord-Ouest,12,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10778,Nord-Ouest,13,Autres villes,Hôpital,Government/public,5
+10780,Nord-Ouest,13,Localité,Dispensaire,Government/public,2
+10781,Nord-Ouest,14,Autres villes,Centre de santé sans lit,Government/public,4
+10782,Nord-Ouest,21,Localité,Centre de santé avec lit,Mission/ faith-based,4
+10783,Nord-Ouest,21,Autres villes,Hôpital communautaire de reference,Government/public,5
+10784,Nord-Ouest,21,Autres villes,Centre de santé avec lit,Private for profit,4
+10785,Nord-Ouest,21,Localité,Dispensaire,Government/public,4
+10786,Nord-Ouest,21,Localité,Dispensaire,Mission/ faith-based,4
+10787,Nord-Ouest,21,Localité,Dispensaire,NGO/ Private not for profit,3
+10788,Nord-Ouest,21,Localité,Dispensaire,Mission/ faith-based,1
+10789,Nord-Ouest,21,Localité,Dispensaire,NGO/ Private not for profit,1
+10790,Nord-Ouest,21,Localité,Dispensaire,NGO/ Private not for profit,5
+10791,Nord-Ouest,21,Localité,Dispensaire,NGO/ Private not for profit,4
+10793,Nord-Ouest,21,Localité,Dispensaire,Government/public,6
+10794,Nord-Ouest,21,Localité,Dispensaire,NGO/ Private not for profit,5
+10795,Nord-Ouest,22,Autres villes,Centre de santé avec lit,Government/public,7
+10796,Nord-Ouest,22,Localité,Dispensaire,Government/public,4
+10797,Nord-Ouest,22,Localité,Dispensaire,Government/public,2
+10798,Nord-Ouest,22,Localité,Dispensaire,Government/public,4
+10799,Nord-Ouest,31,Autres villes,Centre de santé sans lit,Government/public,6
+10800,Nord-Ouest,34,Localité,Centre de santé avec lit,Government/public,4
+10801,Nord-Ouest,31,Localité,Dispensaire,Government/public,4
+10802,Nord-Ouest,31,Localité,Dispensaire,Government/public,2
+10803,Nord-Ouest,34,Localité,Dispensaire,Government/public,5
+10804,Nord-Ouest,31,Localité,Dispensaire,Government/public,1
+10805,Nord-Ouest,32,Autres villes,Centre de santé avec lit,Mission/ faith-based,8
+10806,Nord-Ouest,32,Localité,Dispensaire,Government/public,5
+10807,Nord-Ouest,32,Localité,Dispensaire,Government/public,3
+10808,Nord-Ouest,32,Localité,Dispensaire,NGO/ Private not for profit,6
+10809,Nord-Ouest,32,Localité,Dispensaire,Government/public,5
+10810,Nord-Ouest,33,Autres villes,Centre de santé avec lit,Government/public,6
+10811,Nord-Ouest,33,Localité,Dispensaire,Government/public,4
+10812,Nord-Ouest,33,Localité,Dispensaire,Government/public,1
+10815,Nord-Ouest,33,Localité,Dispensaire,Government/public,2
+10816,Nord-Ouest,34,Autres villes,Hôpital communautaire de reference,Government/public,3
+10817,Nord-Ouest,34,Localité,Dispensaire,Government/public,3
+10818,Nord-Ouest,32,Localité,Dispensaire,Government/public,4
+10820,Nord-Ouest,34,Localité,Dispensaire,Government/public,3
+10821,Nord-Ouest,34,Localité,Dispensaire,Mission/ faith-based,5
+10822,Nord-Ouest,34,Localité,Dispensaire,Government/public,4
+10823,Nord-Ouest,11,Localité,Dispensaire,Government/public,5
+10824,Nord-Ouest,11,Localité,Dispensaire,Government/public,4
+10825,Nord-Ouest,34,Localité,Dispensaire,Government/public,3
+10826,Nord-Ouest,34,Localité,Dispensaire,Mission/ faith-based,4
+10827,Nord-Ouest,34,Localité,Dispensaire,Government/public,3
+10828,Nord-Ouest,34,Localité,Dispensaire,Government/public,1
+10829,Nord-Ouest,34,Localité,Dispensaire,Government/public,1
+10830,Nord-Ouest,34,Localité,Dispensaire,Government/public,1
+10831,Nord-Ouest,34,Localité,Dispensaire,Mission/ faith-based,3
+10833,Nippes,11,Autres villes,Hôpital départemental,Government/public,5
+10834,Nippes,11,Autres villes,Centre de santé sans lit,Mission/ faith-based,2
+10835,Nippes,11,Autres villes,Dispensaire,Mission/ faith-based,5
+10836,Nippes,11,Localité,Dispensaire,Mission/ faith-based,5
+10837,Nippes,11,Autres villes,Dispensaire,Mission/ faith-based,3
+10838,Nippes,11,Localité,Centre de santé avec lit,Mission/ faith-based,8
+10839,Nippes,11,Localité,Dispensaire,Private for profit,3
+10840,Nippes,12,Localité,Centre de santé avec lit,Mission/ faith-based,4
+10841,Nippes,12,Localité,Centre de santé sans lit,Mission/ faith-based,6
+10842,Nippes,12,Autres villes,Dispensaire,Government/public,5
+10843,Sud,31,Localité,Dispensaire,Mission/ faith-based,5
+10844,Nippes,13,Localité,Centre de santé avec lit,Private for profit,7
+10845,Nippes,13,Localité,Dispensaire,Mission/ faith-based,3
+10846,Nippes,14,Autres villes,Centre de santé avec lit,Government/public,6
+10847,Nippes,14,Localité,Dispensaire,Government/public,5
+10848,Nippes,14,Localité,Dispensaire,Mission/ faith-based,3
+10850,Nippes,21,Autres villes,Hôpital communautaire de reference,Government/public,6
+10851,Nippes,21,Localité,Dispensaire,Mission/ faith-based,3
+10852,Nippes,21,Localité,Dispensaire,Mission/ faith-based,2
+10853,Nippes,22,Autres villes,Centre de santé avec lit,Government/public,7
+10854,Nippes,23,Localité,Hôpital communautaire de reference,Government/public,4
+10855,Nippes,23,Localité,Dispensaire,Government/public,6
+10857,Nippes,23,Localité,Dispensaire,Government/public,5
+10858,Nippes,24,Localité,Centre de santé sans lit,Government/public,4
+10859,Nippes,25,Autres villes,Centre de santé avec lit,Mission/ faith-based,5
+10860,Nippes,25,Localité,Dispensaire,Government/public,4
+10861,Nippes,32,Localité,Dispensaire,Government/public,3
+10862,Sud-Est,11,Autres villes,Hôpital départemental,Government/public,4
+10863,Sud-Est,11,Localité,Centre de santé sans lit,Government/public,3
+10864,Sud-Est,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,2
+10865,Sud-Est,11,Localité,Dispensaire,Government/public,2
+10866,Sud-Est,11,Localité,Dispensaire,Government/public,5
+10867,Sud-Est,11,Localité,Dispensaire,Government/public,4
+10868,Sud-Est,11,Localité,Dispensaire,Government/public,4
+10869,Sud-Est,11,Localité,Dispensaire,Government/public,3
+10871,Sud-Est,11,Localité,Dispensaire,Government/public,1
+10872,Sud-Est,11,Localité,Dispensaire,Government/public,1
+10873,Sud-Est,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,1
+10874,Sud-Est,11,Autres villes,Hôpital,Private for profit,6
+10876,Sud-Est,12,Autres villes,Centre de santé sans lit,Government/public,5
+10877,Sud-Est,12,Autres villes,Dispensaire,Government/public,2
+10878,Sud-Est,12,Localité,Dispensaire,Government/public,3
+10880,Sud-Est,13,Autres villes,Hôpital communautaire de reference,Government/public,3
+10881,Sud-Est,13,Localité,Centre de santé avec lit,NGO/ Private not for profit,2
+10882,Sud-Est,13,Localité,Dispensaire,Government/public,4
+10883,Sud-Est,33,Localité,Centre de santé sans lit,Private for profit,2
+10884,Sud-Est,32,Localité,Dispensaire,Government/public,4
+10885,Sud-Est,33,Autres villes,Centre de santé sans lit,Government/public,7
+10886,Sud-Est,33,Localité,Centre de santé avec lit,Mission/ faith-based,5
+10887,Sud-Est,33,Localité,Dispensaire,Government/public,1
+10888,Sud-Est,34,Localité,Dispensaire,Government/public,4
+10889,Sud-Est,33,Autres villes,Centre de santé avec lit,NGO/ Private not for profit,6
+10890,Sud-Est,34,Autres villes,Centre de santé sans lit,Government/public,7
+10891,Sud-Est,34,Localité,Dispensaire,Government/public,4
+10892,Sud-Est,14,Localité,Hôpital,Government/public,8
+10893,Sud-Est,11,Localité,Dispensaire,Mission/ faith-based,4
+10894,Sud-Est,21,Autres villes,Centre de santé avec lit,Government/public,5
+10895,Sud-Est,21,Localité,Dispensaire,Government/public,4
+10896,Sud-Est,21,Localité,Dispensaire,Government/public,4
+10897,Sud-Est,21,Localité,Dispensaire,Government/public,1
+10898,Sud-Est,21,Localité,Dispensaire,Mission/ faith-based,3
+10899,Sud-Est,21,Localité,Dispensaire,Government/public,2
+10900,Sud-Est,21,Localité,Dispensaire,Government/public,2
+10901,Sud-Est,22,Localité,Centre de santé sans lit,Mission/ faith-based,6
+10902,Sud-Est,22,Autres villes,Centre de santé sans lit,Government/public,2
+10903,Sud-Est,22,Localité,Dispensaire,Mission/ faith-based,4
+10904,Sud-Est,22,Localité,Dispensaire,Mission/ faith-based,1
+10905,Sud-Est,22,Localité,Centre de santé avec lit,NGO/ Private not for profit,6
+10907,Sud-Est,31,Localité,Centre de santé sans lit,Government/public,6
+10908,Sud-Est,31,Localité,Dispensaire,Government/public,2
+21003,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+21006,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+21007,Ouest,13,Localité,Centre de santé sans lit,Government/public,6
+21008,Ouest,13,Localité,Centre de santé sans lit,Private for profit,2
+21009,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,6
+21010,Ouest,11,Aire Metropolitaine,Centre de santé avec lit,Mission/ faith-based,1
+21011,Ouest,41,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+21012,Artibonite,11,Localité,Dispensaire,Government/public,1
+21013,Artibonite,23,Localité,Centre de santé sans lit,Government/public,5
+21014,Artibonite,13,Localité,Centre de santé avec lit,Government/public,2
+21015,Artibonite,21,Localité,Dispensaire,Private for profit,2
+21016,Nord,11,Autres villes,Dispensaire,Private for profit,1
+21017,Ouest,51,Autres villes,Centre de santé avec lit,Private for profit,4
+21018,Ouest,52,Localité,Dispensaire,Mission/ faith-based,3
+21019,Nord-Ouest,13,Localité,Dispensaire,Government/public,1
+21020,Sud-Est,33,Localité,Dispensaire,Mission/ faith-based,3
+21021,Sud-Est,33,Localité,Dispensaire,Mission/ faith-based,4
+21501,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+21502,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+21503,Nord-Ouest,12,Localité,Centre de santé sans lit,Private for profit,4
+21504,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,5
+21505,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+21506,Ouest,13,Localité,Dispensaire,Government/public,1
+21507,Ouest,13,Aire Metropolitaine,Hôpital,Private for profit,6
+21508,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+21510,Nord,11,Autres villes,Hôpital,Private for profit,2
+21511,Ouest,21,Localité,Hôpital,NGO/ Private not for profit,8
+21512,Nord-Ouest,21,Localité,Centre de santé avec lit,Private for profit,4
+21513,Sud,33,Autres villes,Centre de santé sans lit,Private for profit,6
+21514,Sud,21,Localité,Dispensaire,Private for profit,3
+21515,Grand-Anse,15,Localité,Dispensaire,Government/public,4
+22002,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,3
+22003,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,8
+22004,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,4
+22007,Nord,13,Localité,Centre de santé sans lit,Mission/ faith-based,5
+22008,Nord-Ouest,11,Localité,Centre de santé sans lit,Government/public,3
+22009,Sud-Est,31,Localité,Dispensaire,NGO/ Private not for profit,4
+22010,Sud-Est,31,Localité,Dispensaire,Government/public,6
+22503,Ouest,42,Localité,Centre de santé sans lit,Private for profit,2
+22504,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,1
+22505,Artibonite,11,Localité,Centre de santé sans lit,Mission/ faith-based,1
+22506,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+22507,Ouest,35,Localité,Dispensaire,NGO/ Private not for profit,1
+22508,Sud,33,Autres villes,Dispensaire,Mission/ faith-based,5
+23001,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+23002,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,4
+23003,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,3
+23004,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+23005,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+23006,Centre,21,Autres villes,Centre de santé sans lit,Mission/ faith-based,5
+23007,Artibonite,23,Autres villes,Centre de santé avec lit,Government/public,7
+23008,Artibonite,23,Localité,Centre de santé sans lit,Government/public,5
+23009,Artibonite,23,Localité,Dispensaire,Government/public,5
+23010,Nord,42,Localité,Dispensaire,Private for profit,3
+23011,Nippes,54,Localité,Dispensaire,Mission/ faith-based,1
+23012,Centre,21,Localité,Hôpital universitaire,Government/public,7
+23501,Ouest,31,Localité,Centre de santé avec lit,Private for profit,6
+23502,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+23503,Sud-Est,31,Localité,Dispensaire,Private for profit,3
+23504,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,5
+23505,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,5
+23506,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+23507,Nord,21,Localité,Centre de santé avec lit,Private for profit,2
+23508,Nord,21,Localité,Dispensaire,Government/public,2
+23509,Nord-Ouest,34,Localité,Dispensaire,Mission/ faith-based,3
+23510,Nord-Ouest,34,Localité,Dispensaire,Government/public,3
+23511,Sud-Est,31,Localité,Dispensaire,NGO/ Private not for profit,3
+23512,Sud-Est,31,Localité,Dispensaire,NGO/ Private not for profit,5
+24001,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+24002,Ouest,11,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,6
+24004,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,1
+24005,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,3
+24006,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Government/public,1
+24007,Ouest,11,Aire Metropolitaine,Dispensaire,NGO/ Private not for profit,3
+24008,Nord,11,Localité,Dispensaire,Private for profit,1
+24010,Centre,21,Localité,Centre de santé sans lit,Mission/ faith-based,4
+24011,Artibonite,21,Localité,Dispensaire,Private for profit,1
+24012,Nord,11,Autres villes,Centre de santé sans lit,Private for profit,1
+24013,Nord,21,Localité,Centre de santé sans lit,Government/public,4
+24014,Sud-Est,11,Localité,Dispensaire,NGO/ Private not for profit,1
+24507,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,6
+24508,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,1
+24509,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,1
+24510,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+24511,Sud-Est,22,Localité,Dispensaire,Private for profit,3
+24512,Sud-Est,22,Localité,Dispensaire,Private for profit,3
+24513,Sud-Est,22,Localité,Dispensaire,NGO/ Private not for profit,2
+25001,Ouest,31,Localité,Centre de santé sans lit,Government/public,5
+25002,Ouest,31,Localité,Centre de santé avec lit,Private for profit,3
+25003,Ouest,31,Localité,Centre de santé sans lit,Mission/ faith-based,5
+25005,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,3
+25006,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Government/public,4
+25007,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,2
+25008,Ouest,41,Localité,Centre de santé sans lit,Government/public,7
+25009,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Mission/ faith-based,3
+25010,Ouest,21,Localité,Dispensaire,Private for profit,2
+25011,Sud-Est,22,Localité,Dispensaire,Private for profit,2
+25501,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+25502,Ouest,31,Autres villes,Centre de santé sans lit,Mission/ faith-based,2
+25503,Ouest,31,Localité,Dispensaire,Private for profit,3
+25504,Ouest,13,Localité,Centre de santé sans lit,Private for profit,7
+25505,Ouest,11,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,7
+25507,Artibonite,41,Localité,Centre de santé avec lit,Government/public,3
+25508,Artibonite,41,Localité,Centre de santé sans lit,Private for profit,1
+25509,Nord,11,Autres villes,Centre de santé sans lit,Government/public,2
+25510,Nord,11,Autres villes,Centre de santé sans lit,Private for profit,2
+25511,Sud-Est,31,Localité,Dispensaire,NGO/ Private not for profit,3
+25512,Sud,16,Localité,Dispensaire,NGO/ Private not for profit,3
+26001,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+26003,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,6
+26004,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,3
+26005,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,6
+26006,Ouest,31,Localité,Centre de santé avec lit,Private for profit,3
+26007,Ouest,31,Localité,Centre de santé sans lit,NGO/ Private not for profit,2
+26008,Centre,14,Localité,Dispensaire,Private for profit,4
+26009,Nord-Est,21,Localité,Centre de santé sans lit,Government/public,5
+26010,Ouest,16,Autres villes,Dispensaire,NGO/ Private not for profit,1
+26011,Ouest,16,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,4
+26012,Sud-Est,22,Localité,Dispensaire,NGO/ Private not for profit,3
+26013,Sud,33,Localité,Dispensaire,NGO/ Private not for profit,2
+26014,Sud,11,Autres villes,Dispensaire,NGO/ Private not for profit,0
+26015,Grand-Anse,34,Localité,Dispensaire,Government/public,2
+26502,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,0
+26503,Ouest,13,Localité,Centre de santé sans lit,NGO/ Private not for profit,5
+26504,Ouest,13,Localité,Dispensaire,NGO/ Private not for profit,1
+26505,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+26507,Ouest,13,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,2
+26508,Ouest,13,Aire Metropolitaine,Centre de santé avec lit,Private for profit,2
+26509,Ouest,41,Localité,Dispensaire,Government/public,3
+26512,Artibonite,51,Localité,Dispensaire,NGO/ Private not for profit,3
+26513,Nord,52,Localité,Centre de santé sans lit,Private for profit,2
+26515,Sud-Est,34,Localité,Dispensaire,NGO/ Private not for profit,3
+26516,Sud-Est,34,Localité,Dispensaire,NGO/ Private not for profit,3
+26517,Sud,32,Localité,Centre de santé sans lit,Government/public,2
+26518,Grand-Anse,34,Localité,Dispensaire,Private for profit,2
+26519,Ouest,21,Localité,Centre de santé sans lit,Mission/ faith-based,2
+27002,Ouest,14,Localité,Centre de santé sans lit,Private for profit,2
+27003,Ouest,14,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+27005,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+27006,Ouest,11,Aire Metropolitaine,Hôpital,Private for profit,6
+27007,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+27008,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,1
+27009,Ouest,33,Localité,Centre de santé avec lit,NGO/ Private not for profit,4
+27010,Nord-Est,12,Localité,Dispensaire,Government/public,3
+27011,Nord,11,Autres villes,Centre de santé sans lit,NGO/ Private not for profit,6
+27012,Ouest,51,Autres villes,Dispensaire,NGO/ Private not for profit,1
+27013,Ouest,51,Localité,Dispensaire,Government/public,1
+27014,Sud-Est,11,Autres villes,Dispensaire,NGO/ Private not for profit,2
+27015,Nippes,11,Autres villes,Centre de santé sans lit,Private for profit,7
+27501,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+27502,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+27503,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,NGO/ Private not for profit,1
+27504,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,6
+27505,Ouest,12,Aire Metropolitaine,Hôpital,NGO/ Private not for profit,5
+27507,Ouest,41,Localité,Centre de santé sans lit,Private for profit,1
+27508,Centre,11,Localité,Dispensaire,Private for profit,2
+27509,Artibonite,42,Localité,Centre de santé sans lit,Private for profit,1
+27510,Nord,11,Localité,Centre de santé sans lit,Private for profit,2
+27512,Nord,11,Autres villes,Centre de santé sans lit,Private for profit,1
+27513,Nord,11,Autres villes,Centre de santé sans lit,Private for profit,4
+28001,Ouest,14,Aire Metropolitaine,Hôpital,Private for profit,6
+28002,Ouest,11,Aire Metropolitaine,Centre de santé sans lit,Private for profit,3
+28003,Ouest,12,Aire Metropolitaine,Centre de santé sans lit,Private for profit,5
+28004,Ouest,14,Localité,Centre de santé sans lit,Private for profit,4
+28005,Artibonite,41,Localité,Centre de santé avec lit,Government/public,4
+28006,Artibonite,41,Localité,Centre de santé avec lit,Government/public,2
+28007,Ouest,21,Localité,Centre de santé sans lit,NGO/ Private not for profit,4
+28008,Sud-Est,32,Localité,Dispensaire,NGO/ Private not for profit,4
+28009,Sud-Est,32,Localité,Dispensaire,NGO/ Private not for profit,4
+28010,Sud-Est,32,Localité,Centre de santé sans lit,NGO/ Private not for profit,1
+28011,Grand-Anse,15,Localité,Dispensaire,Government/public,1
+28501,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,NGO/ Private not for profit,7
+28502,Ouest,12,Aire Metropolitaine,Centre de santé avec lit,Private for profit,1
+28503,Nord-Ouest,11,Localité,Hôpital,Private for profit,4
+28504,Centre,22,Localité,Centre de santé sans lit,Mission/ faith-based,5
+28505,Centre,31,Autres villes,Centre de santé avec lit,Mission/ faith-based,5
+28506,Centre,31,Localité,Centre de santé sans lit,Private for profit,5
+28507,Nord,61,Localité,Centre de santé sans lit,NGO/ Private not for profit,1
+28508,Nord,22,Localité,Centre de santé sans lit,NGO/ Private not for profit,6
+28510,Nord-Ouest,11,Localité,Dispensaire,Government/public,2
+28511,Nord-Ouest,11,Localité,Dispensaire,Government/public,1

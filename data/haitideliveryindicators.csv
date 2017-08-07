@@ -1,0 +1,390 @@
+facil,department,rural,hospital,owner,deliveryready
+10001,west,0,1,government/public,41
+10014,west,0,1,private for profit,41
+10020,west,0,0,private for profit,28
+10023,west,0,1,ngo/ private not for profit,44
+10033,west,0,0,private for profit,36
+10036,west,0,0,private for profit,37
+10042,west,0,1,private for profit,40
+10043,west,0,0,ngo/ private not for profit,29
+10044,west,0,1,private for profit,47
+10047,west,0,1,private for profit,49
+10052,west,0,0,mission/ faith-based,18
+10057,west,0,1,private for profit,57
+10060,west,0,1,ngo/ private not for profit,49
+10065,west,0,1,private for profit,34
+10066,west,0,1,government/public,39
+10069,west,0,1,private for profit,49
+10072,west,0,1,ngo/ private not for profit,43
+10075,west,0,0,ngo/ private not for profit,47
+10076,west,0,1,government/public,24
+10082,west,0,1,government/public,45
+10083,west,0,0,government/public,37
+10087,west,0,1,private for profit,57
+10088,west,0,1,government/public,49
+10093,west,0,1,government/public,56
+10098,west,0,0,private for profit,29
+10107,west,0,1,ngo/ private not for profit,40
+10109,west,0,0,private for profit,46
+10110,west,0,1,government/public,32
+10111,west,0,0,mission/ faith-based,32
+10113,west,0,1,private for profit,52
+10118,west,1,0,government/public,10
+10126,west,0,0,mission/ faith-based,20
+10136,west,0,1,private for profit,41
+10138,west,0,1,private for profit,48
+10141,west,0,1,private for profit,39
+10162,west,0,1,private for profit,41
+10166,west,1,1,mission/ faith-based,43
+10168,west,1,0,mission/ faith-based,19
+10177,west,1,0,private for profit,25
+10190,west,1,0,ngo/ private not for profit,43
+10196,west,0,1,government/public,34
+10199,west,1,0,government/public,28
+10203,west,1,1,private for profit,37
+10205,west,1,0,private for profit,34
+10210,west,0,1,government/public,39
+10213,west,1,0,government/public,27
+10214,west,1,0,private for profit,34
+10215,west,1,0,mission/ faith-based,31
+10221,west,0,1,government/public,51
+10222,west,1,0,government/public,35
+10224,west,1,0,government/public,28
+10225,west,1,0,government/public,17
+10228,west,0,0,government/public,41
+10232,west,1,0,mission/ faith-based,24
+10247,west,1,0,private for profit,49
+10250,west,1,1,private for profit,40
+10252,west,0,0,private for profit,25
+10253,west,1,1,private for profit,46
+10258,west,0,0,government/public,38
+10264,west,0,0,ngo/ private not for profit,46
+10272,west,1,1,private for profit,52
+10273,west,0,0,government/public,36
+10275,west,1,0,ngo/ private not for profit,52
+10276,west,0,0,government/public,30
+10278,west,1,0,private for profit,26
+10279,west,1,0,ngo/ private not for profit,33
+10280,west,0,1,government/public,48
+10288,west,1,1,private for profit,52
+10289,west,1,0,ngo/ private not for profit,38
+10291,west,1,0,ngo/ private not for profit,36
+10292,west,1,0,private for profit,40
+10301,west,1,0,ngo/ private not for profit,42
+10302,west,1,0,private for profit,49
+10303,west,1,0,mission/ faith-based,44
+10304,west,0,1,mission/ faith-based,50
+10305,west,1,0,private for profit,32
+10306,west,1,0,mission/ faith-based,27
+10308,west,1,0,mission/ faith-based,37
+10311,west,1,0,ngo/ private not for profit,40
+10313,west,1,0,ngo/ private not for profit,38
+10314,west,0,0,mission/ faith-based,31
+10316,west,1,0,government/public,25
+10317,north,0,1,government/public,42
+10319,north,0,1,mission/ faith-based,39
+10321,north,1,0,government/public,25
+10330,north,0,0,government/public,53
+10335,north,1,0,government/public,28
+10336,north,0,1,ngo/ private not for profit,53
+10337,north,0,0,government/public,29
+10338,north,0,0,mission/ faith-based,34
+10346,north,1,0,government/public,25
+10356,north,1,1,mission/ faith-based,57
+10360,north,1,1,private for profit,54
+10365,north,0,1,government/public,48
+10367,north,1,0,government/public,34
+10369,north,1,0,government/public,45
+10371,north,1,0,government/public,32
+10373,north,0,0,government/public,27
+10376,north,0,1,government/public,58
+10378,north,1,0,government/public,31
+10381,north,1,0,government/public,32
+10383,north,0,0,mission/ faith-based,45
+10385,north,1,0,government/public,33
+10386,north,1,0,mission/ faith-based,29
+10388,north,1,0,ngo/ private not for profit,44
+10390,north,0,1,mission/ faith-based,40
+10391,north,0,1,private for profit,49
+10393,north,1,0,mission/ faith-based,38
+10394,north,1,0,government/public,37
+10396,north,0,1,private for profit,39
+10398,north,1,0,ngo/ private not for profit,20
+10399,north,1,0,mission/ faith-based,41
+10401,north,0,1,ngo/ private not for profit,46
+10402,northeast,0,1,government/public,42
+10403,northeast,1,0,government/public,27
+10404,northeast,1,0,government/public,23
+10405,northeast,1,0,government/public,20
+10406,northeast,1,0,government/public,29
+10407,northeast,0,0,government/public,49
+10408,northeast,1,0,government/public,35
+10410,northeast,0,0,private for profit,54
+10413,northeast,1,0,government/public,36
+10415,northeast,1,0,government/public,34
+10416,northeast,0,1,government/public,48
+10417,northeast,1,0,government/public,17
+10418,northeast,1,0,mission/ faith-based,31
+10419,northeast,1,0,government/public,29
+10420,northeast,1,0,mission/ faith-based,27
+10422,northeast,0,0,mission/ faith-based,46
+10423,northeast,1,0,private for profit,49
+10427,northeast,1,0,mission/ faith-based,47
+10428,northeast,1,0,mission/ faith-based,38
+10429,northeast,1,0,mission/ faith-based,27
+10430,northeast,1,0,mission/ faith-based,40
+10431,northeast,1,0,government/public,30
+10432,northeast,1,0,government/public,26
+10433,northeast,1,0,government/public,19
+10435,northeast,1,0,government/public,28
+10436,northeast,1,0,government/public,52
+10437,artibonite,0,1,government/public,31
+10440,artibonite,1,0,mission/ faith-based,25
+10442,artibonite,1,0,mission/ faith-based,33
+10444,artibonite,0,0,government/public,27
+10449,artibonite,1,0,ngo/ private not for profit,44
+10451,artibonite,0,1,government/public,48
+10457,artibonite,0,1,government/public,35
+10459,artibonite,1,0,ngo/ private not for profit,45
+10460,artibonite,0,1,mission/ faith-based,50
+10462,artibonite,1,0,government/public,35
+10463,artibonite,1,0,private for profit,29
+10465,artibonite,1,0,government/public,12
+10466,artibonite,1,0,government/public,33
+10471,artibonite,1,0,private for profit,35
+10474,artibonite,1,0,government/public,37
+10475,artibonite,1,0,government/public,23
+10481,artibonite,1,0,government/public,24
+10483,artibonite,1,0,government/public,19
+10484,artibonite,0,1,government/public,39
+10490,west,1,0,ngo/ private not for profit,47
+10491,artibonite,1,0,private for profit,45
+10493,artibonite,1,0,mission/ faith-based,39
+10495,artibonite,1,0,government/public,29
+10497,artibonite,1,0,mission/ faith-based,22
+10499,artibonite,1,0,government/public,24
+10501,artibonite,1,1,ngo/ private not for profit,63
+10506,artibonite,0,1,government/public,43
+10514,artibonite,1,0,mission/ faith-based,32
+10515,artibonite,0,1,mission/ faith-based,52
+10517,artibonite,1,0,mission/ faith-based,22
+10519,artibonite,1,0,mission/ faith-based,19
+10524,artibonite,1,0,mission/ faith-based,23
+10527,artibonite,1,0,government/public,24
+10530,artibonite,1,0,private for profit,13
+10531,artibonite,0,1,private for profit,56
+10534,artibonite,1,0,mission/ faith-based,23
+10535,artibonite,1,0,ngo/ private not for profit,29
+10539,artibonite,1,0,private for profit,31
+10542,artibonite,1,0,government/public,20
+10545,artibonite,1,0,government/public,27
+10548,artibonite,1,0,government/public,48
+10549,artibonite,1,0,government/public,25
+10550,artibonite,1,0,government/public,32
+10551,artibonite,1,0,government/public,31
+10552,artibonite,1,0,government/public,20
+10553,artibonite,1,0,government/public,14
+10554,artibonite,1,0,ngo/ private not for profit,24
+10558,artibonite,1,0,government/public,49
+10559,central,0,1,government/public,47
+10560,central,1,0,government/public,44
+10564,central,1,0,mission/ faith-based,30
+10565,central,1,0,ngo/ private not for profit,38
+10570,central,1,0,government/public,39
+10578,central,1,0,mission/ faith-based,47
+10580,central,0,0,government/public,33
+10585,central,0,1,government/public,43
+10590,central,1,0,government/public,35
+10594,central,0,0,mission/ faith-based,39
+10595,central,1,0,mission/ faith-based,21
+10596,central,1,1,ngo/ private not for profit,47
+10599,central,1,0,government/public,44
+10600,central,0,1,government/public,37
+10603,central,1,0,government/public,31
+10604,central,0,0,mission/ faith-based,27
+10606,central,0,0,mission/ faith-based,48
+10610,central,1,0,government/public,33
+10612,central,0,0,ngo/ private not for profit,47
+10613,south,0,1,government/public,59
+10616,south,0,1,private for profit,47
+10617,south,0,1,mission/ faith-based,62
+10631,south,1,0,private for profit,48
+10638,south,0,0,government/public,45
+10640,south,0,1,government/public,40
+10648,south,0,0,mission/ faith-based,31
+10649,south,1,0,government/public,21
+10651,south,0,0,government/public,40
+10655,south,0,1,government/public,48
+10656,south,0,0,government/public,41
+10661,south,1,0,mission/ faith-based,33
+10663,south,0,0,ngo/ private not for profit,46
+10670,south,0,1,ngo/ private not for profit,67
+10671,south,0,1,government/public,41
+10672,south,0,0,government/public,45
+10677,south,1,1,private for profit,51
+10678,south,0,0,government/public,44
+10686,south,0,0,government/public,38
+10687,south,1,0,government/public,22
+10688,south,0,0,government/public,39
+10690,south,0,0,mission/ faith-based,33
+10693,south,0,0,government/public,42
+10694,south,0,0,mission/ faith-based,33
+10695,nippes,0,0,government/public,36
+10696,grand-anse,0,1,government/public,45
+10699,grand-anse,1,0,mission/ faith-based,31
+10701,grand-anse,1,0,government/public,25
+10705,grand-anse,1,0,mission/ faith-based,32
+10708,grand-anse,1,0,mission/ faith-based,43
+10709,grand-anse,0,0,government/public,49
+10712,grand-anse,0,0,government/public,30
+10715,grand-anse,0,0,government/public,31
+10722,grand-anse,0,1,government/public,29
+10723,grand-anse,0,1,mission/ faith-based,52
+10728,grand-anse,0,0,government/public,20
+10729,grand-anse,1,0,mission/ faith-based,26
+10732,grand-anse,1,0,ngo/ private not for profit,17
+10735,grand-anse,0,1,government/public,49
+10737,grand-anse,1,0,mission/ faith-based,40
+10738,grand-anse,1,0,mission/ faith-based,26
+10741,grand-anse,1,0,mission/ faith-based,54
+10744,grand-anse,0,0,government/public,42
+10745,nippes,1,0,government/public,17
+10746,grand-anse,1,0,government/public,20
+10747,grand-anse,1,0,mission/ faith-based,26
+10751,northwest,0,1,government/public,39
+10755,northwest,1,0,government/public,25
+10757,northwest,1,0,government/public,25
+10764,northwest,0,0,mission/ faith-based,33
+10765,northwest,1,1,ngo/ private not for profit,46
+10768,northwest,1,0,government/public,11
+10772,northwest,1,1,mission/ faith-based,34
+10773,northwest,1,0,mission/ faith-based,31
+10774,northwest,1,0,government/public,32
+10775,northwest,1,0,ngo/ private not for profit,34
+10776,northwest,1,0,mission/ faith-based,29
+10777,northwest,1,0,mission/ faith-based,31
+10778,northwest,0,1,government/public,41
+10780,northwest,1,0,government/public,20
+10781,northwest,0,0,government/public,38
+10782,northwest,1,0,mission/ faith-based,28
+10784,northwest,0,0,private for profit,33
+10788,northwest,1,0,mission/ faith-based,20
+10789,northwest,1,0,ngo/ private not for profit,22
+10790,northwest,1,0,ngo/ private not for profit,35
+10791,northwest,1,0,ngo/ private not for profit,25
+10794,northwest,1,0,ngo/ private not for profit,24
+10795,northwest,0,0,government/public,42
+10796,northwest,1,0,government/public,23
+10797,northwest,1,0,government/public,24
+10798,northwest,1,0,government/public,32
+10799,northwest,0,0,government/public,40
+10800,northwest,1,0,government/public,31
+10801,northwest,1,0,government/public,42
+10802,northwest,1,0,government/public,18
+10805,northwest,0,0,mission/ faith-based,41
+10807,northwest,1,0,government/public,30
+10809,northwest,1,0,government/public,19
+10810,northwest,0,0,government/public,55
+10811,northwest,1,0,government/public,28
+10812,northwest,1,0,government/public,24
+10815,northwest,1,0,government/public,18
+10816,northwest,0,1,government/public,38
+10818,northwest,1,0,government/public,25
+10820,northwest,1,0,government/public,28
+10821,northwest,1,0,mission/ faith-based,25
+10822,northwest,1,0,government/public,28
+10823,northwest,1,0,government/public,16
+10824,northwest,1,0,government/public,23
+10825,northwest,1,0,government/public,24
+10827,northwest,1,0,government/public,20
+10828,northwest,1,0,government/public,14
+10829,northwest,1,0,government/public,15
+10833,nippes,0,1,government/public,43
+10834,nippes,0,0,mission/ faith-based,36
+10838,nippes,1,0,mission/ faith-based,44
+10841,nippes,1,0,mission/ faith-based,47
+10844,nippes,1,0,private for profit,45
+10846,nippes,0,0,government/public,45
+10847,nippes,1,0,government/public,21
+10848,nippes,1,0,mission/ faith-based,30
+10850,nippes,0,1,government/public,44
+10853,nippes,0,0,government/public,46
+10854,nippes,1,1,government/public,43
+10858,nippes,1,0,government/public,39
+10859,nippes,0,0,mission/ faith-based,31
+10861,nippes,1,0,government/public,24
+10862,southeast,0,1,government/public,43
+10863,southeast,1,0,government/public,34
+10866,southeast,1,0,government/public,23
+10867,southeast,1,0,government/public,31
+10868,southeast,1,0,government/public,24
+10869,southeast,1,0,government/public,23
+10871,southeast,1,0,government/public,22
+10874,southeast,0,1,private for profit,36
+10876,southeast,0,0,government/public,45
+10877,southeast,0,0,government/public,21
+10878,southeast,1,0,government/public,28
+10880,southeast,0,1,government/public,30
+10882,southeast,1,0,government/public,32
+10884,southeast,1,0,government/public,26
+10885,southeast,0,0,government/public,43
+10887,southeast,1,0,government/public,18
+10888,southeast,1,0,government/public,18
+10889,southeast,0,0,ngo/ private not for profit,43
+10890,southeast,0,0,government/public,40
+10891,southeast,1,0,government/public,29
+10892,southeast,1,1,government/public,43
+10893,southeast,1,0,mission/ faith-based,33
+10894,southeast,0,0,government/public,47
+10895,southeast,1,0,government/public,31
+10896,southeast,1,0,government/public,23
+10897,southeast,1,0,government/public,23
+10899,southeast,1,0,government/public,23
+10901,southeast,1,0,mission/ faith-based,43
+10902,southeast,0,0,government/public,24
+10903,southeast,1,0,mission/ faith-based,26
+10904,southeast,1,0,mission/ faith-based,21
+10905,southeast,1,0,ngo/ private not for profit,53
+10907,southeast,1,0,government/public,39
+21007,west,1,0,government/public,27
+21013,artibonite,1,0,government/public,28
+21017,west,0,0,private for profit,46
+21018,west,1,0,mission/ faith-based,24
+21019,northwest,1,0,government/public,15
+21507,west,0,1,private for profit,52
+21510,north,0,1,private for profit,38
+21511,west,1,1,ngo/ private not for profit,59
+22009,southeast,1,0,ngo/ private not for profit,18
+22010,southeast,1,0,government/public,23
+22505,artibonite,1,0,mission/ faith-based,18
+23007,artibonite,0,0,government/public,44
+23009,artibonite,1,0,government/public,15
+23011,nippes,1,0,mission/ faith-based,20
+23012,central,1,1,government/public,64
+23501,west,1,0,private for profit,46
+23507,north,1,0,private for profit,24
+24005,west,0,1,private for profit,29
+24008,north,1,0,private for profit,23
+25002,west,1,0,private for profit,30
+25003,west,1,0,mission/ faith-based,18
+25006,west,0,0,government/public,29
+25503,west,1,0,private for profit,20
+25505,west,0,1,ngo/ private not for profit,60
+25507,artibonite,1,0,government/public,11
+26005,west,0,0,private for profit,49
+26006,west,1,0,private for profit,27
+26009,northeast,1,0,government/public,22
+26015,grand-anse,1,0,government/public,20
+26503,west,1,0,ngo/ private not for profit,27
+26512,artibonite,1,0,ngo/ private not for profit,28
+26513,north,1,0,private for profit,40
+27006,west,0,1,private for profit,53
+27505,west,0,1,ngo/ private not for profit,52
+28501,west,0,0,ngo/ private not for profit,40
+28502,west,0,0,private for profit,25
+28503,northwest,1,1,private for profit,43
+28504,central,1,0,mission/ faith-based,23
+28505,central,0,0,mission/ faith-based,44
+28506,central,1,0,private for profit,34
+28508,north,1,0,ngo/ private not for profit,45
+28511,northwest,1,0,government/public,21
