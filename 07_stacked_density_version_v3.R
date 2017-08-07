@@ -243,16 +243,16 @@ print_result <- function(res, stval) {
 # 4. Estimate separate bandwidths for urban/rural only, not hospital/clinic
 #    -- use all other covariates
 #
-specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights"
-formula1 <- Formula(facilitybirth ~
-    age + married + birthorder + pca + rural + surface_var)
-density_surface_option <- "subtract" # "none", "subtract", "as_covariate"
-
-facility_type_list <- list(
-  quote(rural == 1),
-  quote(rural == 0)
-)
-parameter_stval <- c(bw_rural=8, bw_urban=8)
+# specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights"
+# formula1 <- Formula(facilitybirth ~
+#     age + married + birthorder + pca + rural + surface_var)
+# density_surface_option <- "subtract" # "none", "subtract", "as_covariate"
+#
+# facility_type_list <- list(
+#   quote(rural == 1),
+#   quote(rural == 0)
+# )
+# parameter_stval <- c(bw_rural=8, bw_urban=8)
 
 
 
@@ -273,16 +273,16 @@ parameter_stval <- c(bw_rural=8, bw_urban=8)
 # 6. Include 'rural' in individual-level logistic regression formula
 #    -- estimate separate bandwidth by urbanicity (among clinics, not hospitals)
 #    -- include KDE density (non-weighted) as a covariate, not subtraction
-# specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights"
-# formula1 <- Formula(facilitybirth ~
-#     age + married + birthorder + pca + rural + surface_var + density_var)
-# density_surface_option <- "as_covariate" # "none", "subtract", "as_covariate"
-#
-# facility_type_list <- list(
-#   quote(rural == 1),
-#   quote(rural == 0)
-# )
-# parameter_stval <- c(bw_rural=8, bw_urban=8)
+specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights"
+formula1 <- Formula(facilitybirth ~
+    age + married + birthorder + pca + rural + surface_var + density_var)
+density_surface_option <- "as_covariate" # "none", "subtract", "as_covariate"
+
+facility_type_list <- list(
+  quote(rural == 1),
+  quote(rural == 0)
+)
+parameter_stval <- c(bw_rural=8, bw_urban=8)
 
 
 # 7. pca and spatial vars are only covariates in logistic regression
@@ -313,10 +313,14 @@ llk_logit <- function(param) {
   as.numeric(strsplit(as.character(logLik(fit1[["fit"]])), split = ' ')[[1]]) # extract likelihood
 }
 
-system.time(result1 <- optim(
-  par = parameter_stval, fn = llk_logit,
-  method = "BFGS", hessian = T, control = list(fnscale = -1)
-))
+run_model <- FALSE
+
+if (run_model) {
+  system.time(result1 <- optim(
+    par = parameter_stval, fn = llk_logit,
+    method = "BFGS", hessian = T, control = list(fnscale = -1)
+  ))
+}
 
 
 #####
@@ -325,8 +329,11 @@ system.time(result1 <- optim(
 load_previous_result <- TRUE
 
 if (load_previous_result) {
+
+  # NOTE: make sure model specification above aligns with the loaded file
   result1 <- readRDS(
-    "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights.RDS" )[[2]]
+    # "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights.RDS" )[[2]]
+    "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights.RDS" )[[2]]
 }
 
 (displayed_result <- print_result(res = result1, stval = parameter_stval))
@@ -353,11 +360,14 @@ fit3 <- clusterSEs::cluster.bs.glm(
 
 
 # write result to disk
-saveRDS(
-  object = list(fit2, result1, fit3, displayed_result),
-  file = paste0("results/", specification_name, ".RDS")
-)
+# -- but not if we just loaded a previous result
 
+if (!load_previous_result) {
+  saveRDS(
+    object = list(fit2, result1, fit3, displayed_result),
+    file = paste0("results/", specification_name, ".RDS")
+  )
+}
 
 
 #####
