@@ -16,6 +16,7 @@ library(KernSmooth)
 library(lattice)
 library(lme4)
 library(clusterSEs)
+library(scales)
 
 
 
@@ -58,6 +59,8 @@ df <- left_join(dat1, dat2, by = c("facility_id" = "facil")) %>%
 # convert lat/long to kilometers
 df[, c("xvar", "yvar")] <- latlong2grid(df[, c("longitude", "latitude")])
 
+# range of the delivery readiness score (for re-scaling later)
+deliveryready_range <- range(df$deliveryready, na.rm = TRUE)
 
 # repeat rows of the facility data, where
 #   the number of reps is the value of 'deliveryready'
@@ -119,7 +122,7 @@ get_surface_estimate <- function(bw, dataset, by_cluster = TRUE) {
 # function for getting a 'glm' object with logistic regression results
 # -- optionally also returns the individual-level data used to fit the regression
 
-get_model_fit <- function(param_vals, formula_var, return_individual_dat = FALSE) {
+get_model_fit <- function(param_vals, formula_var, return_individual_dat = FALSE ) {
 
   # param_vals <- c(10,15) # dev
   # formula_var <- formula1 # dev
@@ -155,6 +158,12 @@ get_model_fit <- function(param_vals, formula_var, return_individual_dat = FALSE
 
   surface_dat_covar1 <- do.call("cbind", lapply(surface_dat, function(x) x[["covar1"]]))
   df_cluster$surface_var <- apply(surface_dat_covar1, MARGIN = 1, max)
+
+  # rescale the KDE estimate to be on scale of the original delivery-readiness variable
+  # -- results will be the same, but coefficient is more interpretable
+  if (rescale_surface_var) {
+    df_cluster$surface_var <- rescale(df_cluster$surface_var, to = deliveryready_range)
+  }
 
   # create another variable 'surface_dat_covar2' if "as_covariate" option is selected
   if (density_surface_option == "as_covariate") {
@@ -254,6 +263,20 @@ print_result <- function(res, stval) {
 # )
 # parameter_stval <- c(bw_rural=8, bw_urban=8)
 
+# 4b. Same as 4, but rescale surface var to range of original delivery-ready variable
+#
+specification_name <- "2bw_byurbanicity_AgeMarriedBoPcaRuralSurface_subtractDens_wts_rescale"
+formula1 <- Formula(facilitybirth ~
+    age + married + birthorder + pca + rural + surface_var)
+
+density_surface_option <- "subtract" # "none", "subtract", "as_covariate"
+rescale_surface_var <- TRUE
+
+facility_type_list <- list(
+  quote(rural == 1),
+  quote(rural == 0)
+)
+parameter_stval <- c(bw_rural=8, bw_urban=8)
 
 
 # 5. Make no distinctions by health facility or urbanicity
@@ -273,16 +296,16 @@ print_result <- function(res, stval) {
 # 6. Include 'rural' in individual-level logistic regression formula
 #    -- estimate separate bandwidth by urbanicity (among clinics, not hospitals)
 #    -- include KDE density (non-weighted) as a covariate, not subtraction
-specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights"
-formula1 <- Formula(facilitybirth ~
-    age + married + birthorder + pca + rural + surface_var + density_var)
-density_surface_option <- "as_covariate" # "none", "subtract", "as_covariate"
-
-facility_type_list <- list(
-  quote(rural == 1),
-  quote(rural == 0)
-)
-parameter_stval <- c(bw_rural=8, bw_urban=8)
+# specification_name <- "2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights"
+# formula1 <- Formula(facilitybirth ~
+#     age + married + birthorder + pca + rural + surface_var + density_var)
+# density_surface_option <- "as_covariate" # "none", "subtract", "as_covariate"
+#
+# facility_type_list <- list(
+#   quote(rural == 1),
+#   quote(rural == 0)
+# )
+# parameter_stval <- c(bw_rural=8, bw_urban=8)
 
 
 # 7. pca and spatial vars are only covariates in logistic regression
@@ -313,7 +336,7 @@ llk_logit <- function(param) {
   as.numeric(strsplit(as.character(logLik(fit1[["fit"]])), split = ' ')[[1]]) # extract likelihood
 }
 
-run_model <- FALSE
+run_model <- TRUE
 
 if (run_model) {
   system.time(result1 <- optim(
@@ -326,14 +349,14 @@ if (run_model) {
 #####
 # RESULTS
 
-load_previous_result <- TRUE
+load_previous_result <- FALSE
 
 if (load_previous_result) {
 
   # NOTE: make sure model specification above aligns with the loaded file
   result1 <- readRDS(
-    # "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights.RDS" )[[2]]
-    "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights.RDS" )[[2]]
+    "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights.RDS" )[[2]]
+    # "results/2bw_byurbanicity_age_married_bo_pca_rural_surface_densitycovar_useweights.RDS" )[[2]]
 }
 
 (displayed_result <- print_result(res = result1, stval = parameter_stval))
@@ -358,6 +381,36 @@ fit3 <- clusterSEs::cluster.bs.glm(
   report = TRUE
 )
 
+# my_vars <- c("var1", "var2", "var3")
+#
+# df2 <- df[, my_vars]
+#
+#
+# my_vars <- names(df)[grepl("select309_", names(df))]
+#
+# grepl(pattern = "select309_", x = names(df))
+#
+# my_vars <- names(incomas3)
+#
+# tmp <- incomas3[, trat_diarreia]
+#
+# incomas3 <- incomas3 %>%
+#   mutate(
+#     newvar = any(select309_1, select309_2, select309_3)
+#   )
+#
+# incomas3$newvar <- any(incomas3$select309_1, incomas3$select309_2)
+
+
+# get histogram of surface values, to check the scale
+# tmp <- fit2[["individual_dat"]] %>%
+#   group_by(cluster_id) %>%
+#   summarize(val = first(surface_var))
+#
+# hist(tmp$val, breaks = 30, xlab = "Surface values", main = "")
+
+
+
 
 # write result to disk
 # -- but not if we just loaded a previous result
@@ -373,11 +426,14 @@ if (!load_previous_result) {
 #####
 # MAP
 
-tmp <- readRDS("results/3bw_age_married_bo_pca_rural_surface_subtractdensity.RDS")
+tmp <- list(fit2, result1, fit3, displayed_result)
+
+tmp <- readRDS("results/2bw_byurbanicity_age_married_bo_pca_rural_surface_subtractdensity_useweights.RDS")
 tmp_glm_fit <- tmp[[1]][["fit"]]
 tmp_dat <- tmp[[1]][["individual_dat"]]
 tmp_optim_object <- tmp[[2]]
-tmp_bw_results <- tmp[[3]]
+tmp_bw_results <- tmp[[4]]
+final_bw <- tmp_bw_results[, "Estimate"]
 
 
 # function for returning data for the entire spatial grid, in the form of a matrix
@@ -434,8 +490,8 @@ pal <- colorRampPalette(c("white", "navyblue"), space = "rgb")
 levelplot(combined_surface_matrix, xlab="", ylab="",
   row.values = seq(min(corners$x), max(corners$x), length.out = n_xpoints),
   column.values = seq(min(corners$y), max(corners$y), length.out = n_ypoints),
-  col.regions = pal(20), add = TRUE) +
-  layer(sp.polygons(out))
+  col.regions = pal(20), add = TRUE)
+  # layer(sp.polygons(out))
 
 maps::map("world", "haiti", plot = TRUE)
 
